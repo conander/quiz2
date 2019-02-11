@@ -1,4 +1,4 @@
-# Quiz 2
+# Quiz 2: Converting to GeoJson
 This data was originally published by the USGS in 1991. It consist of the different lithologies present in the state of Oregon and is meant to provide the public with a geologic map of the state. This exercise was meant to convert and simplify a shapefile into a geojson file.
 
 | File Name: | Data Size (kb): |
